@@ -31,7 +31,7 @@ The **reTerminal Sticky Stream Deck** turns the 3.97-inch (800x480) capacitive t
 
 | Windows Companion App (`ReTerminalStreamDeck.exe`) | 800x480 E-Paper Display UI Artwork |
 | :---: | :---: |
-| ![Windows Companion App](screenshot_app.png) | ![reTerminal Sticky E-Paper UI](epd_ui_preview.png) |
+| ![Windows Companion App](https://github.com/gokuxmaker/Sticky-Stream-Deck-Controller/blob/main/windows_app/screenshot_app.png) | ![reTerminal Sticky E-Paper UI](https://github.com/gokuxmaker/Sticky-Stream-Deck-Controller/blob/main/windows_app/custom_ui_800x480.png) |
 | *Full visual 3x5 button configuration, live CDC serial monitoring & instant USB upload* | *High-contrast 15-button monochrome layout displayed permanently with zero static power* |
 
 ---
@@ -193,7 +193,7 @@ The Windows host software ([`ReTerminalStreamDeck.exe`](ReTerminalStreamDeck.exe
 
 <!-- 📷 IMAGE PLACEHOLDER: Windows Companion App Main Interface Overview -->
 <!-- Replace with: ![Windows App Overview](images/app_overview.png) -->
-![Windows Companion App Overview](screenshot_app.png)
+![Windows Companion App Overview](https://github.com/gokuxmaker/Sticky-Stream-Deck-Controller/blob/main/windows_app/screenshot_app.png)
 
 ---
 
