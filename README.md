@@ -8,6 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)](LICENSE)
 
 Transform your **Seeed Studio reTerminal Sticky** (ESP32-S3) into a standalone, customizable **15-button E-Paper Stream Deck & Macro Controller** for Windows.
+![img](https://github.com/gokuxmaker/Sticky-Stream-Deck-Controller/blob/main/Image_20260918062743_30_7.jpg)
 
 This repository provides both the complete **ESP32-S3 Arduino firmware** (built for **Arduino IDE**) with all hardware drivers, and the standalone **Windows Companion Desktop App** (`ReTerminalStreamDeck.exe`) featuring official Seeed Studio styling, live USB bitmap uploads, and flexible macro/application automation.
 
